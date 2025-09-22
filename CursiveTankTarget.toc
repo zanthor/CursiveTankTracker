@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: CursiveTankTarget
+## Notes: Inverse indicator; local arrow textures; assist command & keybind. (accurate arrow + GUID-only toggle)
+## Version: 3.2.2-accurate+guid
+## Author: ChatGPT for Will
+## SavedVariables: CTT_Tanks, CTT_Enabled, CTT_Debug, CTT_Scale, CTT_GuidOnly
+
+Bindings.lua
+Bindings.xml
+CursiveTankTarget.lua

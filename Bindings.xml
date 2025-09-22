@@ -1,0 +1,5 @@
+<Bindings>
+  <Binding name="CTT_ASSIST" header="CURSIVETANKTARGET">
+    CTT_Assist();
+  </Binding>
+</Bindings>
